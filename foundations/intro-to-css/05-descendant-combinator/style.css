@@ -1,0 +1,20 @@
+.container .text {
+    color: red;
+    background-color: yellow;
+    text-align: center;
+}
+
+
+/* 
+1. .container .text
+This selector targets any element with the class text that is a descendant (child, grandchild, etc.) of an element with the class container. */
+
+
+/* 
+2. .container.text
+This selector targets any element that has both classes container and text at the same time. */
+
+
+/* 
+3. .container, .text
+This selector targets all elements with the class container and all elements with the class text, regardless of their position or relationship to each other. */
